@@ -1,3 +1,4 @@
 Welcome to GIT CONFLICT for better automation process
 Make some changes to increase user interest01
 commit 1
+commit 2
